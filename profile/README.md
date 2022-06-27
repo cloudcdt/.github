@@ -10,7 +10,7 @@ A collection of tools and resources developed by students at the CDT in Cloud Co
 
 * [philipdarke/torchtime](https://github.com/philipdarke/torchtime): benchmark time series data sets for PyTorch
 
-### :syringe: Healthcare
+### :pill: Healthcare
 
 * [philipdarke/ehr-codesets](https://github.com/philipdarke/ehr-codesets): code sets for EHR research
 * [philipdarke/ukbb-ehr-data](https://github.com/philipdarke/ukbb-ehr-data): prepare UK Biobank EHR data for research
@@ -18,10 +18,11 @@ A collection of tools and resources developed by students at the CDT in Cloud Co
 
 ### :book: LaTeX and writing
 
+* [philipdarke/simple-thesis](https://github.com/philipdarke/simple-thesis): PhD thesis template
 * [ImperialSquid/TexStudioMacros](https://github.com/ImperialSquid/TexStudioMacros): Git integration macros for TeXStudio
 
 ### :snake: Python
 
 * [philipdarke/pypi-cookiecutter](https://github.com/philipdarke/pypi-cookiecutter): cookiecutter template for PyPI packages
 
-Last updated: *10 June 2022*
+Last updated: *27 June 2022*
