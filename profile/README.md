@@ -24,5 +24,7 @@ A collection of tools and resources developed by students at the CDT in Cloud Co
 ### :snake: Python
 
 * [philipdarke/pypi-cookiecutter](https://github.com/philipdarke/pypi-cookiecutter): cookiecutter template for PyPI packages
+* [philipdarke/trailing-newline](https://github.com/philipdarke/trailing-newline): pre-commit hook to flag files without a trailing newline
 
-Last updated: *27 June 2022*
+Last updated: *1 August 2022*
+
